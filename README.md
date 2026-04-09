@@ -1,12 +1,11 @@
 # 🕹️ Quem é esse Pokémon? (Versão 2.0: ETL Edition)
 
 Bem-vindo ao meu primeiro projeto de Data Science e Programação em Python! 
-O que começou didaticamente como um divertido "jogo de adivinhação" evoluiu rapidamente para um sistema completo de **Engenharia de Dados (ETL)** operando com conceitos reais do mercado de TI.
 
 Ao invés de depender de dados falsos ou digitados à mão no código, o motor desse projeto consome os dados oficiais direto da API internacional para gerar toda inteligência dos desafios! 🚀
 
 ## 🧠 Arquitetura do Projeto
-Para que a mágica inteira funcione com escalabilidade, a máquina foi fracionada em dois blocos:
+Para que funcione com escalabilidade, a máquina foi fracionada em dois blocos:
 
 ### 1. O Pipeline Extrator (`extrator.py`)
 Esse é o trator que trabalha sujo nos bastidores! É um Script massivo de ETL *(Extract, Transform and Load)* construído do zero, responsável por abastecer o projeto:
@@ -35,4 +34,4 @@ python jogo.py
 ```
 
 ---
-*Construído na raça com muito código quebrado durante a solidificação das minhas bases iniciais para ingressar na área de TI & Ciência de Dados! Temos que pegar todos os dados!* 🔴⚪
+Gotta Catch 'Em All!
