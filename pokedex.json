@@ -1,0 +1,1210 @@
+[
+    {
+        "nome": "Bulbasaur",
+        "dica1": "Tipagem Oficial: grass / poison",
+        "dica2": "Peso: Pesa cerca de 6.9Kg.",
+        "dica3": "Censo: É o número 1 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 70 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Ivysaur",
+        "dica1": "Tipagem Oficial: grass / poison",
+        "dica2": "Peso: Pesa cerca de 13.0Kg.",
+        "dica3": "Censo: É o número 2 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Venusaur",
+        "dica1": "Tipagem Oficial: grass / poison",
+        "dica2": "Peso: Pesa cerca de 100.0Kg.",
+        "dica3": "Censo: É o número 3 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 200 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Charmander",
+        "dica1": "Tipagem Oficial: fire",
+        "dica2": "Peso: Pesa cerca de 8.5Kg.",
+        "dica3": "Censo: É o número 4 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 60 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Charmeleon",
+        "dica1": "Tipagem Oficial: fire",
+        "dica2": "Peso: Pesa cerca de 19.0Kg.",
+        "dica3": "Censo: É o número 5 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 110 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Charizard",
+        "dica1": "Tipagem Oficial: fire / flying",
+        "dica2": "Peso: Pesa cerca de 90.5Kg.",
+        "dica3": "Censo: É o número 6 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 170 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Squirtle",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 9.0Kg.",
+        "dica3": "Censo: É o número 7 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 50 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Wartortle",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 22.5Kg.",
+        "dica3": "Censo: É o número 8 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Blastoise",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 85.5Kg.",
+        "dica3": "Censo: É o número 9 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 160 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Caterpie",
+        "dica1": "Tipagem Oficial: bug",
+        "dica2": "Peso: Pesa cerca de 2.9Kg.",
+        "dica3": "Censo: É o número 10 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 30 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Metapod",
+        "dica1": "Tipagem Oficial: bug",
+        "dica2": "Peso: Pesa cerca de 9.9Kg.",
+        "dica3": "Censo: É o número 11 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 70 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Butterfree",
+        "dica1": "Tipagem Oficial: bug / flying",
+        "dica2": "Peso: Pesa cerca de 32.0Kg.",
+        "dica3": "Censo: É o número 12 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 110 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Weedle",
+        "dica1": "Tipagem Oficial: bug / poison",
+        "dica2": "Peso: Pesa cerca de 3.2Kg.",
+        "dica3": "Censo: É o número 13 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 30 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Kakuna",
+        "dica1": "Tipagem Oficial: bug / poison",
+        "dica2": "Peso: Pesa cerca de 10.0Kg.",
+        "dica3": "Censo: É o número 14 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 60 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Beedrill",
+        "dica1": "Tipagem Oficial: bug / poison",
+        "dica2": "Peso: Pesa cerca de 29.5Kg.",
+        "dica3": "Censo: É o número 15 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Pidgey",
+        "dica1": "Tipagem Oficial: normal / flying",
+        "dica2": "Peso: Pesa cerca de 1.8Kg.",
+        "dica3": "Censo: É o número 16 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 30 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Pidgeotto",
+        "dica1": "Tipagem Oficial: normal / flying",
+        "dica2": "Peso: Pesa cerca de 30.0Kg.",
+        "dica3": "Censo: É o número 17 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 110 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Pidgeot",
+        "dica1": "Tipagem Oficial: normal / flying",
+        "dica2": "Peso: Pesa cerca de 39.5Kg.",
+        "dica3": "Censo: É o número 18 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 150 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Rattata",
+        "dica1": "Tipagem Oficial: normal",
+        "dica2": "Peso: Pesa cerca de 3.5Kg.",
+        "dica3": "Censo: É o número 19 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 30 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Raticate",
+        "dica1": "Tipagem Oficial: normal",
+        "dica2": "Peso: Pesa cerca de 18.5Kg.",
+        "dica3": "Censo: É o número 20 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 70 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Spearow",
+        "dica1": "Tipagem Oficial: normal / flying",
+        "dica2": "Peso: Pesa cerca de 2.0Kg.",
+        "dica3": "Censo: É o número 21 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 30 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Fearow",
+        "dica1": "Tipagem Oficial: normal / flying",
+        "dica2": "Peso: Pesa cerca de 38.0Kg.",
+        "dica3": "Censo: É o número 22 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 120 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Ekans",
+        "dica1": "Tipagem Oficial: poison",
+        "dica2": "Peso: Pesa cerca de 6.9Kg.",
+        "dica3": "Censo: É o número 23 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 200 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Arbok",
+        "dica1": "Tipagem Oficial: poison",
+        "dica2": "Peso: Pesa cerca de 65.0Kg.",
+        "dica3": "Censo: É o número 24 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 350 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Pikachu",
+        "dica1": "Tipagem Oficial: electric",
+        "dica2": "Peso: Pesa cerca de 6.0Kg.",
+        "dica3": "Censo: É o número 25 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 40 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Raichu",
+        "dica1": "Tipagem Oficial: electric",
+        "dica2": "Peso: Pesa cerca de 30.0Kg.",
+        "dica3": "Censo: É o número 26 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 80 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Sandshrew",
+        "dica1": "Tipagem Oficial: ground",
+        "dica2": "Peso: Pesa cerca de 12.0Kg.",
+        "dica3": "Censo: É o número 27 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 60 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Sandslash",
+        "dica1": "Tipagem Oficial: ground",
+        "dica2": "Peso: Pesa cerca de 29.5Kg.",
+        "dica3": "Censo: É o número 28 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Nidoran-f",
+        "dica1": "Tipagem Oficial: poison",
+        "dica2": "Peso: Pesa cerca de 7.0Kg.",
+        "dica3": "Censo: É o número 29 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 40 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Nidorina",
+        "dica1": "Tipagem Oficial: poison",
+        "dica2": "Peso: Pesa cerca de 20.0Kg.",
+        "dica3": "Censo: É o número 30 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 80 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Nidoqueen",
+        "dica1": "Tipagem Oficial: poison / ground",
+        "dica2": "Peso: Pesa cerca de 60.0Kg.",
+        "dica3": "Censo: É o número 31 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 130 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Nidoran-m",
+        "dica1": "Tipagem Oficial: poison",
+        "dica2": "Peso: Pesa cerca de 9.0Kg.",
+        "dica3": "Censo: É o número 32 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 50 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Nidorino",
+        "dica1": "Tipagem Oficial: poison",
+        "dica2": "Peso: Pesa cerca de 19.5Kg.",
+        "dica3": "Censo: É o número 33 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 90 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Nidoking",
+        "dica1": "Tipagem Oficial: poison / ground",
+        "dica2": "Peso: Pesa cerca de 62.0Kg.",
+        "dica3": "Censo: É o número 34 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 140 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Clefairy",
+        "dica1": "Tipagem Oficial: fairy",
+        "dica2": "Peso: Pesa cerca de 7.5Kg.",
+        "dica3": "Censo: É o número 35 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 60 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Clefable",
+        "dica1": "Tipagem Oficial: fairy",
+        "dica2": "Peso: Pesa cerca de 40.0Kg.",
+        "dica3": "Censo: É o número 36 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 130 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Vulpix",
+        "dica1": "Tipagem Oficial: fire",
+        "dica2": "Peso: Pesa cerca de 9.9Kg.",
+        "dica3": "Censo: É o número 37 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 60 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Ninetales",
+        "dica1": "Tipagem Oficial: fire",
+        "dica2": "Peso: Pesa cerca de 19.9Kg.",
+        "dica3": "Censo: É o número 38 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 110 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Jigglypuff",
+        "dica1": "Tipagem Oficial: normal / fairy",
+        "dica2": "Peso: Pesa cerca de 5.5Kg.",
+        "dica3": "Censo: É o número 39 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 50 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Wigglytuff",
+        "dica1": "Tipagem Oficial: normal / fairy",
+        "dica2": "Peso: Pesa cerca de 12.0Kg.",
+        "dica3": "Censo: É o número 40 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Zubat",
+        "dica1": "Tipagem Oficial: poison / flying",
+        "dica2": "Peso: Pesa cerca de 7.5Kg.",
+        "dica3": "Censo: É o número 41 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 80 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Golbat",
+        "dica1": "Tipagem Oficial: poison / flying",
+        "dica2": "Peso: Pesa cerca de 55.0Kg.",
+        "dica3": "Censo: É o número 42 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 160 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Oddish",
+        "dica1": "Tipagem Oficial: grass / poison",
+        "dica2": "Peso: Pesa cerca de 5.4Kg.",
+        "dica3": "Censo: É o número 43 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 50 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Gloom",
+        "dica1": "Tipagem Oficial: grass / poison",
+        "dica2": "Peso: Pesa cerca de 8.6Kg.",
+        "dica3": "Censo: É o número 44 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 80 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Vileplume",
+        "dica1": "Tipagem Oficial: grass / poison",
+        "dica2": "Peso: Pesa cerca de 18.6Kg.",
+        "dica3": "Censo: É o número 45 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 120 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Paras",
+        "dica1": "Tipagem Oficial: bug / grass",
+        "dica2": "Peso: Pesa cerca de 5.4Kg.",
+        "dica3": "Censo: É o número 46 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 30 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Parasect",
+        "dica1": "Tipagem Oficial: bug / grass",
+        "dica2": "Peso: Pesa cerca de 29.5Kg.",
+        "dica3": "Censo: É o número 47 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Venonat",
+        "dica1": "Tipagem Oficial: bug / poison",
+        "dica2": "Peso: Pesa cerca de 30.0Kg.",
+        "dica3": "Censo: É o número 48 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Venomoth",
+        "dica1": "Tipagem Oficial: bug / poison",
+        "dica2": "Peso: Pesa cerca de 12.5Kg.",
+        "dica3": "Censo: É o número 49 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 150 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Diglett",
+        "dica1": "Tipagem Oficial: ground",
+        "dica2": "Peso: Pesa cerca de 0.8Kg.",
+        "dica3": "Censo: É o número 50 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 20 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Dugtrio",
+        "dica1": "Tipagem Oficial: ground",
+        "dica2": "Peso: Pesa cerca de 33.3Kg.",
+        "dica3": "Censo: É o número 51 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 70 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Meowth",
+        "dica1": "Tipagem Oficial: normal",
+        "dica2": "Peso: Pesa cerca de 4.2Kg.",
+        "dica3": "Censo: É o número 52 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 40 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Persian",
+        "dica1": "Tipagem Oficial: normal",
+        "dica2": "Peso: Pesa cerca de 32.0Kg.",
+        "dica3": "Censo: É o número 53 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Psyduck",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 19.6Kg.",
+        "dica3": "Censo: É o número 54 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 80 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Golduck",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 76.6Kg.",
+        "dica3": "Censo: É o número 55 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 170 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Mankey",
+        "dica1": "Tipagem Oficial: fighting",
+        "dica2": "Peso: Pesa cerca de 28.0Kg.",
+        "dica3": "Censo: É o número 56 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 50 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Primeape",
+        "dica1": "Tipagem Oficial: fighting",
+        "dica2": "Peso: Pesa cerca de 32.0Kg.",
+        "dica3": "Censo: É o número 57 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Growlithe",
+        "dica1": "Tipagem Oficial: fire",
+        "dica2": "Peso: Pesa cerca de 19.0Kg.",
+        "dica3": "Censo: É o número 58 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 70 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Arcanine",
+        "dica1": "Tipagem Oficial: fire",
+        "dica2": "Peso: Pesa cerca de 155.0Kg.",
+        "dica3": "Censo: É o número 59 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 190 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Poliwag",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 12.4Kg.",
+        "dica3": "Censo: É o número 60 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 60 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Poliwhirl",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 20.0Kg.",
+        "dica3": "Censo: É o número 61 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Poliwrath",
+        "dica1": "Tipagem Oficial: water / fighting",
+        "dica2": "Peso: Pesa cerca de 54.0Kg.",
+        "dica3": "Censo: É o número 62 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 130 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Abra",
+        "dica1": "Tipagem Oficial: psychic",
+        "dica2": "Peso: Pesa cerca de 19.5Kg.",
+        "dica3": "Censo: É o número 63 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 90 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Kadabra",
+        "dica1": "Tipagem Oficial: psychic",
+        "dica2": "Peso: Pesa cerca de 56.5Kg.",
+        "dica3": "Censo: É o número 64 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 130 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Alakazam",
+        "dica1": "Tipagem Oficial: psychic",
+        "dica2": "Peso: Pesa cerca de 48.0Kg.",
+        "dica3": "Censo: É o número 65 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 150 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Machop",
+        "dica1": "Tipagem Oficial: fighting",
+        "dica2": "Peso: Pesa cerca de 19.5Kg.",
+        "dica3": "Censo: É o número 66 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 80 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Machoke",
+        "dica1": "Tipagem Oficial: fighting",
+        "dica2": "Peso: Pesa cerca de 70.5Kg.",
+        "dica3": "Censo: É o número 67 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 150 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Machamp",
+        "dica1": "Tipagem Oficial: fighting",
+        "dica2": "Peso: Pesa cerca de 130.0Kg.",
+        "dica3": "Censo: É o número 68 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 160 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Bellsprout",
+        "dica1": "Tipagem Oficial: grass / poison",
+        "dica2": "Peso: Pesa cerca de 4.0Kg.",
+        "dica3": "Censo: É o número 69 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 70 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Weepinbell",
+        "dica1": "Tipagem Oficial: grass / poison",
+        "dica2": "Peso: Pesa cerca de 6.4Kg.",
+        "dica3": "Censo: É o número 70 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Victreebel",
+        "dica1": "Tipagem Oficial: grass / poison",
+        "dica2": "Peso: Pesa cerca de 15.5Kg.",
+        "dica3": "Censo: É o número 71 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 170 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Tentacool",
+        "dica1": "Tipagem Oficial: water / poison",
+        "dica2": "Peso: Pesa cerca de 45.5Kg.",
+        "dica3": "Censo: É o número 72 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 90 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Tentacruel",
+        "dica1": "Tipagem Oficial: water / poison",
+        "dica2": "Peso: Pesa cerca de 55.0Kg.",
+        "dica3": "Censo: É o número 73 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 160 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Geodude",
+        "dica1": "Tipagem Oficial: rock / ground",
+        "dica2": "Peso: Pesa cerca de 20.0Kg.",
+        "dica3": "Censo: É o número 74 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 40 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Graveler",
+        "dica1": "Tipagem Oficial: rock / ground",
+        "dica2": "Peso: Pesa cerca de 105.0Kg.",
+        "dica3": "Censo: É o número 75 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Golem",
+        "dica1": "Tipagem Oficial: rock / ground",
+        "dica2": "Peso: Pesa cerca de 300.0Kg.",
+        "dica3": "Censo: É o número 76 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 140 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Ponyta",
+        "dica1": "Tipagem Oficial: fire",
+        "dica2": "Peso: Pesa cerca de 30.0Kg.",
+        "dica3": "Censo: É o número 77 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Rapidash",
+        "dica1": "Tipagem Oficial: fire",
+        "dica2": "Peso: Pesa cerca de 95.0Kg.",
+        "dica3": "Censo: É o número 78 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 170 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Slowpoke",
+        "dica1": "Tipagem Oficial: water / psychic",
+        "dica2": "Peso: Pesa cerca de 36.0Kg.",
+        "dica3": "Censo: É o número 79 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 120 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Slowbro",
+        "dica1": "Tipagem Oficial: water / psychic",
+        "dica2": "Peso: Pesa cerca de 78.5Kg.",
+        "dica3": "Censo: É o número 80 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 160 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Magnemite",
+        "dica1": "Tipagem Oficial: electric / steel",
+        "dica2": "Peso: Pesa cerca de 6.0Kg.",
+        "dica3": "Censo: É o número 81 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 30 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Magneton",
+        "dica1": "Tipagem Oficial: electric / steel",
+        "dica2": "Peso: Pesa cerca de 60.0Kg.",
+        "dica3": "Censo: É o número 82 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Farfetchd",
+        "dica1": "Tipagem Oficial: normal / flying",
+        "dica2": "Peso: Pesa cerca de 15.0Kg.",
+        "dica3": "Censo: É o número 83 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 80 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Doduo",
+        "dica1": "Tipagem Oficial: normal / flying",
+        "dica2": "Peso: Pesa cerca de 39.2Kg.",
+        "dica3": "Censo: É o número 84 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 140 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Dodrio",
+        "dica1": "Tipagem Oficial: normal / flying",
+        "dica2": "Peso: Pesa cerca de 85.2Kg.",
+        "dica3": "Censo: É o número 85 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 180 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Seel",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 90.0Kg.",
+        "dica3": "Censo: É o número 86 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 110 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Dewgong",
+        "dica1": "Tipagem Oficial: water / ice",
+        "dica2": "Peso: Pesa cerca de 120.0Kg.",
+        "dica3": "Censo: É o número 87 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 170 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Grimer",
+        "dica1": "Tipagem Oficial: poison",
+        "dica2": "Peso: Pesa cerca de 30.0Kg.",
+        "dica3": "Censo: É o número 88 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 90 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Muk",
+        "dica1": "Tipagem Oficial: poison",
+        "dica2": "Peso: Pesa cerca de 30.0Kg.",
+        "dica3": "Censo: É o número 89 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 120 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Shellder",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 4.0Kg.",
+        "dica3": "Censo: É o número 90 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 30 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Cloyster",
+        "dica1": "Tipagem Oficial: water / ice",
+        "dica2": "Peso: Pesa cerca de 132.5Kg.",
+        "dica3": "Censo: É o número 91 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 150 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Gastly",
+        "dica1": "Tipagem Oficial: ghost / poison",
+        "dica2": "Peso: Pesa cerca de 0.1Kg.",
+        "dica3": "Censo: É o número 92 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 130 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Haunter",
+        "dica1": "Tipagem Oficial: ghost / poison",
+        "dica2": "Peso: Pesa cerca de 0.1Kg.",
+        "dica3": "Censo: É o número 93 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 160 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Gengar",
+        "dica1": "Tipagem Oficial: ghost / poison",
+        "dica2": "Peso: Pesa cerca de 40.5Kg.",
+        "dica3": "Censo: É o número 94 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 150 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Onix",
+        "dica1": "Tipagem Oficial: rock / ground",
+        "dica2": "Peso: Pesa cerca de 210.0Kg.",
+        "dica3": "Censo: É o número 95 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 880 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Drowzee",
+        "dica1": "Tipagem Oficial: psychic",
+        "dica2": "Peso: Pesa cerca de 32.4Kg.",
+        "dica3": "Censo: É o número 96 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Hypno",
+        "dica1": "Tipagem Oficial: psychic",
+        "dica2": "Peso: Pesa cerca de 75.6Kg.",
+        "dica3": "Censo: É o número 97 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 160 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Krabby",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 6.5Kg.",
+        "dica3": "Censo: É o número 98 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 40 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Kingler",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 60.0Kg.",
+        "dica3": "Censo: É o número 99 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 130 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Voltorb",
+        "dica1": "Tipagem Oficial: electric",
+        "dica2": "Peso: Pesa cerca de 10.4Kg.",
+        "dica3": "Censo: É o número 100 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 50 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Electrode",
+        "dica1": "Tipagem Oficial: electric",
+        "dica2": "Peso: Pesa cerca de 66.6Kg.",
+        "dica3": "Censo: É o número 101 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 120 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Exeggcute",
+        "dica1": "Tipagem Oficial: grass / psychic",
+        "dica2": "Peso: Pesa cerca de 2.5Kg.",
+        "dica3": "Censo: É o número 102 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 40 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Exeggutor",
+        "dica1": "Tipagem Oficial: grass / psychic",
+        "dica2": "Peso: Pesa cerca de 120.0Kg.",
+        "dica3": "Censo: É o número 103 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 200 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Cubone",
+        "dica1": "Tipagem Oficial: ground",
+        "dica2": "Peso: Pesa cerca de 6.5Kg.",
+        "dica3": "Censo: É o número 104 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 40 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Marowak",
+        "dica1": "Tipagem Oficial: ground",
+        "dica2": "Peso: Pesa cerca de 45.0Kg.",
+        "dica3": "Censo: É o número 105 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Hitmonlee",
+        "dica1": "Tipagem Oficial: fighting",
+        "dica2": "Peso: Pesa cerca de 49.8Kg.",
+        "dica3": "Censo: É o número 106 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 150 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Hitmonchan",
+        "dica1": "Tipagem Oficial: fighting",
+        "dica2": "Peso: Pesa cerca de 50.2Kg.",
+        "dica3": "Censo: É o número 107 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 140 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Lickitung",
+        "dica1": "Tipagem Oficial: normal",
+        "dica2": "Peso: Pesa cerca de 65.5Kg.",
+        "dica3": "Censo: É o número 108 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 120 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Koffing",
+        "dica1": "Tipagem Oficial: poison",
+        "dica2": "Peso: Pesa cerca de 1.0Kg.",
+        "dica3": "Censo: É o número 109 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 60 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Weezing",
+        "dica1": "Tipagem Oficial: poison",
+        "dica2": "Peso: Pesa cerca de 9.5Kg.",
+        "dica3": "Censo: É o número 110 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 120 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Rhyhorn",
+        "dica1": "Tipagem Oficial: ground / rock",
+        "dica2": "Peso: Pesa cerca de 115.0Kg.",
+        "dica3": "Censo: É o número 111 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Rhydon",
+        "dica1": "Tipagem Oficial: ground / rock",
+        "dica2": "Peso: Pesa cerca de 120.0Kg.",
+        "dica3": "Censo: É o número 112 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 190 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Chansey",
+        "dica1": "Tipagem Oficial: normal",
+        "dica2": "Peso: Pesa cerca de 34.6Kg.",
+        "dica3": "Censo: É o número 113 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 110 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Tangela",
+        "dica1": "Tipagem Oficial: grass",
+        "dica2": "Peso: Pesa cerca de 35.0Kg.",
+        "dica3": "Censo: É o número 114 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Kangaskhan",
+        "dica1": "Tipagem Oficial: normal",
+        "dica2": "Peso: Pesa cerca de 80.0Kg.",
+        "dica3": "Censo: É o número 115 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 220 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Horsea",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 8.0Kg.",
+        "dica3": "Censo: É o número 116 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 40 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Seadra",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 25.0Kg.",
+        "dica3": "Censo: É o número 117 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 120 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Goldeen",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 15.0Kg.",
+        "dica3": "Censo: É o número 118 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 60 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Seaking",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 39.0Kg.",
+        "dica3": "Censo: É o número 119 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 130 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Staryu",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 34.5Kg.",
+        "dica3": "Censo: É o número 120 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 80 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Starmie",
+        "dica1": "Tipagem Oficial: water / psychic",
+        "dica2": "Peso: Pesa cerca de 80.0Kg.",
+        "dica3": "Censo: É o número 121 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 110 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Mr-mime",
+        "dica1": "Tipagem Oficial: psychic / fairy",
+        "dica2": "Peso: Pesa cerca de 54.5Kg.",
+        "dica3": "Censo: É o número 122 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 130 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Scyther",
+        "dica1": "Tipagem Oficial: bug / flying",
+        "dica2": "Peso: Pesa cerca de 56.0Kg.",
+        "dica3": "Censo: É o número 123 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 150 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Jynx",
+        "dica1": "Tipagem Oficial: ice / psychic",
+        "dica2": "Peso: Pesa cerca de 40.6Kg.",
+        "dica3": "Censo: É o número 124 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 140 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Electabuzz",
+        "dica1": "Tipagem Oficial: electric",
+        "dica2": "Peso: Pesa cerca de 30.0Kg.",
+        "dica3": "Censo: É o número 125 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 110 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Magmar",
+        "dica1": "Tipagem Oficial: fire",
+        "dica2": "Peso: Pesa cerca de 44.5Kg.",
+        "dica3": "Censo: É o número 126 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 130 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Pinsir",
+        "dica1": "Tipagem Oficial: bug",
+        "dica2": "Peso: Pesa cerca de 55.0Kg.",
+        "dica3": "Censo: É o número 127 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 150 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Tauros",
+        "dica1": "Tipagem Oficial: normal",
+        "dica2": "Peso: Pesa cerca de 88.4Kg.",
+        "dica3": "Censo: É o número 128 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 140 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Magikarp",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 10.0Kg.",
+        "dica3": "Censo: É o número 129 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 90 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Gyarados",
+        "dica1": "Tipagem Oficial: water / flying",
+        "dica2": "Peso: Pesa cerca de 235.0Kg.",
+        "dica3": "Censo: É o número 130 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 650 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Lapras",
+        "dica1": "Tipagem Oficial: water / ice",
+        "dica2": "Peso: Pesa cerca de 220.0Kg.",
+        "dica3": "Censo: É o número 131 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 250 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Ditto",
+        "dica1": "Tipagem Oficial: normal",
+        "dica2": "Peso: Pesa cerca de 4.0Kg.",
+        "dica3": "Censo: É o número 132 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 30 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Eevee",
+        "dica1": "Tipagem Oficial: normal",
+        "dica2": "Peso: Pesa cerca de 6.5Kg.",
+        "dica3": "Censo: É o número 133 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 30 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Vaporeon",
+        "dica1": "Tipagem Oficial: water",
+        "dica2": "Peso: Pesa cerca de 29.0Kg.",
+        "dica3": "Censo: É o número 134 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Jolteon",
+        "dica1": "Tipagem Oficial: electric",
+        "dica2": "Peso: Pesa cerca de 24.5Kg.",
+        "dica3": "Censo: É o número 135 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 80 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Flareon",
+        "dica1": "Tipagem Oficial: fire",
+        "dica2": "Peso: Pesa cerca de 25.0Kg.",
+        "dica3": "Censo: É o número 136 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 90 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Porygon",
+        "dica1": "Tipagem Oficial: normal",
+        "dica2": "Peso: Pesa cerca de 36.5Kg.",
+        "dica3": "Censo: É o número 137 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 80 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Omanyte",
+        "dica1": "Tipagem Oficial: rock / water",
+        "dica2": "Peso: Pesa cerca de 7.5Kg.",
+        "dica3": "Censo: É o número 138 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 40 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Omastar",
+        "dica1": "Tipagem Oficial: rock / water",
+        "dica2": "Peso: Pesa cerca de 35.0Kg.",
+        "dica3": "Censo: É o número 139 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 100 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Kabuto",
+        "dica1": "Tipagem Oficial: rock / water",
+        "dica2": "Peso: Pesa cerca de 11.5Kg.",
+        "dica3": "Censo: É o número 140 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 50 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Kabutops",
+        "dica1": "Tipagem Oficial: rock / water",
+        "dica2": "Peso: Pesa cerca de 40.5Kg.",
+        "dica3": "Censo: É o número 141 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 130 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Aerodactyl",
+        "dica1": "Tipagem Oficial: rock / flying",
+        "dica2": "Peso: Pesa cerca de 59.0Kg.",
+        "dica3": "Censo: É o número 142 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 180 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Snorlax",
+        "dica1": "Tipagem Oficial: normal",
+        "dica2": "Peso: Pesa cerca de 460.0Kg.",
+        "dica3": "Censo: É o número 143 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 210 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Articuno",
+        "dica1": "Tipagem Oficial: ice / flying",
+        "dica2": "Peso: Pesa cerca de 55.4Kg.",
+        "dica3": "Censo: É o número 144 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 170 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Zapdos",
+        "dica1": "Tipagem Oficial: electric / flying",
+        "dica2": "Peso: Pesa cerca de 52.6Kg.",
+        "dica3": "Censo: É o número 145 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 160 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Moltres",
+        "dica1": "Tipagem Oficial: fire / flying",
+        "dica2": "Peso: Pesa cerca de 60.0Kg.",
+        "dica3": "Censo: É o número 146 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 200 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Dratini",
+        "dica1": "Tipagem Oficial: dragon",
+        "dica2": "Peso: Pesa cerca de 3.3Kg.",
+        "dica3": "Censo: É o número 147 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 180 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Dragonair",
+        "dica1": "Tipagem Oficial: dragon",
+        "dica2": "Peso: Pesa cerca de 16.5Kg.",
+        "dica3": "Censo: É o número 148 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 400 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Dragonite",
+        "dica1": "Tipagem Oficial: dragon / flying",
+        "dica2": "Peso: Pesa cerca de 210.0Kg.",
+        "dica3": "Censo: É o número 149 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 220 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Mewtwo",
+        "dica1": "Tipagem Oficial: psychic",
+        "dica2": "Peso: Pesa cerca de 122.0Kg.",
+        "dica3": "Censo: É o número 150 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 200 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    },
+    {
+        "nome": "Mew",
+        "dica1": "Tipagem Oficial: psychic",
+        "dica2": "Peso: Pesa cerca de 4.0Kg.",
+        "dica3": "Censo: É o número 151 na Pokédex Mundial.",
+        "dica4": "Estatura: Tem a altura de 40 cm.",
+        "dica5": "Faz parte da primeira geração!"
+    }
+]

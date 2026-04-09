@@ -1,38 +1,15 @@
 
 import random
+import json
 
 print("Bem-vindo ao Descubra o Pokémon!")
 nome_jogador = input("Qual o seu nome, Mestre Pokémon? ")
 print(f"Muito prazer, {nome_jogador}! Prepare-se para o desafio...")
 
-# 1. Definir o Pokémon Secreto e criar sua pequena "Pokédex" de dados na Memória.
-
-lista_pokemons = [
-    {
-        "nome": "Charmander",
-        "dica1": "Tipagem: Fogo",
-        "dica2": "Geração: Primeira Geração (Kanto)",
-        "dica3": "Evolução: É o estágio inicial do Charizard",
-        "dica4": "Característica: Tem cor predominantemente laranja",
-        "dica5": "Fato bizarro: Se a ponta do rabo dele apagar, ele morre..."
-    },
-    {
-        "nome": "Squirtle",
-        "dica1": "Tipagem: Água",
-        "dica2": "Geração: Primeira Geração (Kanto)",
-        "dica3": "Evolução: É o estágio inicial do Blastoise",
-        "dica4": "Característica: É parecido com uma tartaruga azul",
-        "dica5": "Fato do Anime: Liderou um esquadrão famoso usando óculos escuros"
-    },
-    {
-        "nome": "Bulbasaur",
-        "dica1": "Tipagem: Planta / Veneno",
-        "dica2": "Geração: Primeira Geração (Kanto)",
-        "dica3": "Evolução: É o estágio inicial do Venusaur",
-        "dica4": "Característica: Tem pele verde",
-        "dica5": "Fato da Pokédex: É oficialmente o Pokémon de nº 001 do mundo"
-    }
-]
+# 1. Definir o Banco GIGANTE de Dados abrindo no modo Leitura:
+with open("pokedex.json", "r", encoding="utf-8") as arquivo:
+    # A variável recebe o poder de ler e dominar os 151!
+    lista_pokemons = json.load(arquivo)
 
 #Sorteia alguém da lista sem nos contar quem é!
 pokemon_secreto = random.choice(lista_pokemons)
